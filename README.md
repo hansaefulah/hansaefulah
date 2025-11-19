@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&lines=Halo!+👋+Saya+Hansae+Fulah;Full+Stack+Developer;Network+Engineer;Graphic+Designer&color=FF6B6B&width=435&height=50" alt="Typing SVG" />
+
 
 ```
 ███████╗██╗   ██╗██╗     ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
