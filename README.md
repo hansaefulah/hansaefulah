@@ -1,4 +1,4 @@
-
+# 👋 Selamat Datang di Profile Saya
 
 ```
 ███████╗██╗   ██╗██╗     ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
@@ -13,7 +13,7 @@
 
 ## 🚀 Full Stack Developer | Network Engineer | Graphic Designer
 
-**Welcome to my GitHub!** 🎉 Saya adalah **Hansae Fulah** dari Bandung, Jawa Barat - seorang passionate developer dengan keahlian di bidang web development, network infrastructure, dan graphic design.
+**Welcome to my GitHub!** 🎉 Saya adalah **Farhan Saefulah** dari Cirebon, Jawa Barat - seorang passionate developer dengan keahlian di bidang web development, network engineering, dan graphic design.
 
 ---
 
