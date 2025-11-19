@@ -19,7 +19,7 @@
 
 ## 💼 Posisi Saat Ini
 
-**Web Development ** @ **Bank BRI Regional 9 Bandung** (2025-Sekarang)
+**Web Development** @ **Bank BRI Regional 9 Bandung** (2025-Sekarang)
 
 Mengembangkan dan memelihara website internal bank dengan fokus pada:
 - 🎨 UI/UX Design yang user-friendly
