@@ -1,4 +1,4 @@
-# Halo! 👋 Saya Farhan Saefulah
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&lines=Halo!+👋+Saya+Hansae+Fulah;Full+Stack+Developer;Network+Engineer;Graphic+Designer&color=FF6B6B&width=435&height=50" alt="Typing SVG" />
 
 ```
 ███████╗██╗   ██╗██╗     ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
@@ -83,11 +83,23 @@ Mengembangkan dan memelihara website internal bank dengan fokus pada:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity & Statistics
 
+<div align="center">
+
+### 🔥 Activity Graph - Kontribusi Tahunan
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hansaefulah&theme=radical&hide_border=true&bg_color=0D1117)
+
+### 📈 GitHub Statistics
 ![Hansae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansaefulah&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hansaefulah&layout=compact&theme=radical&hide_border=true)
+
+### ⚡ Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hansaefulah&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
@@ -119,20 +131,27 @@ Lihat repo untuk template & panduan lengkap!
 
 ---
 
-## 📞 Hubungi Saya
+## 📞 Let's Connect! 🤝
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhansaefulah505@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hansaefulah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hansaefulah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://hansaefulah-portfolio.netlify.app)
+<div align="center">
 
-**Availability**: 
-- 💼 Full-time opportunities
-- 🤝 Freelance projects
-- 📚 Mentoring & teaching
-- 🌟 Collaboration on interesting projects
+### 💡 Saya Mencari
 
-**Response Time**: ⚡ Usually within 24 hours
+✅ **Full-time opportunities** sebagai Web Developer / Full Stack Developer  
+✅ **Freelance projects** dan consulting  
+✅ **Collaboration** pada proyek-proyek menarik  
+✅ **Mentoring & knowledge sharing**  
+
+### 📱 Hubungi Saya
+
+[![Email](https://img.shields.io/badge/💌%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhansaefulah505@gmail.com)
+[![GitHub](https://img.shields.io/badge/👨‍💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hansaefulah)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hansaefulah)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://hansaefulah-portfolio.netlify.app)
+
+**⚡ Response Time**: Usually within 24 hours
+
+</div>
 
 ---
 
