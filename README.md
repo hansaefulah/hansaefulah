@@ -11,13 +11,13 @@
 
 ---
 
-## 🚀 Full Stack Developer | Network Engineer | Graphic Designer
+##  Full Stack Developer | Network Engineer | Graphic Designer
 
 **Welcome to my GitHub!** 🎉 Saya adalah **Farhan Saefulah** dari Cirebon, Jawa Barat - seorang passionate developer dengan keahlian di bidang web development, network engineering, dan graphic design.
 
 ---
 
-## 💼 Posisi Saat Ini
+##  Posisi Saat Ini
 
 **Web Development** @ **Bank BRI Regional 9 Bandung** (2025-Sekarang)
 
@@ -38,9 +38,9 @@ Mengembangkan dan memelihara website internal bank dengan fokus pada:
 
 ---
 
-## 💻 Keahlian Teknis
+##  Keahlian Teknis
 
-### 🎨 Frontend Development
+###  Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,7 +49,7 @@ Mengembangkan dan memelihara website internal bank dengan fokus pada:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔧 Backend Development
+###  Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
